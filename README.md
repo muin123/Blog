@@ -1,0 +1,2 @@
+# Blog
+Buat safelink blog
